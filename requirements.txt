@@ -3,10 +3,9 @@ streamlit
 sentence-transformers
 langchain-community
 langchain
+langchain-core
 langchain-huggingface
 langchain-text-splitters
-unstructured
-unstructured[pdf]
-langchain-unstructured
 langchain-chroma
 langchain-groq
+pypdf
